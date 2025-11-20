@@ -11,6 +11,7 @@ Student Name
 
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Scientific functions (square root, power, trigonometry)
 - Clear and delete functions
 - Keyboard support
 - Modern gradient design
